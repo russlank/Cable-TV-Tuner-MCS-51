@@ -1,4 +1,4 @@
-Cable TV Tuner – is an program for MCS-51 based customized centrally controlled subscribers’ cable TV tuner program.
+Cable TV Tuner â€“ is an program for MCS-51 based customized centrally controlled subscribersâ€™ cable TV tuner appliance.
 
 Copyright (C) 1996 - By: Russlan Kafri - russlank@gmail.com
 
